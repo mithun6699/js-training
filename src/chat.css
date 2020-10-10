@@ -1,0 +1,7 @@
+.chat {
+  background-color: honeydew;
+  flex: 0.75;
+  display: grid;
+  place-items: center;
+  justify-content: center;
+}
